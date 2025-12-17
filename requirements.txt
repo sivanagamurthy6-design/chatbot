@@ -1,0 +1,8 @@
+requests
+twilio
+python-dotenv
+google-genai
+pinecone
+PyPDF2
+sentence_transformers
+pinecone
